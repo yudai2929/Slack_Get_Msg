@@ -1,3 +1,5 @@
 .env
-data
 src/__pycache__
+
+# エクセルが生成されるフォルダ
+data

@@ -37,7 +37,7 @@ def main():
             pass
 
     df = pd.DataFrame(list, columns=['テキスト', '日付'])
-    df.to_excel('xxxxx.xlsx')
+    df.to_excel('../data/xxxxx.xlsx')
     print(df)
 
     return
